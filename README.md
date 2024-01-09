@@ -20,3 +20,5 @@ Figure 1: Comparing the actual prices of homes in Melbourne to the absolute erro
 
 ## Conclusion 
 From the histogram, it is evident that this model predicts the prices of homes in Melbourne fairly well based on the fact that the majority of the absolute errors are less than $50,000.
+
+## View full project [here](https://github.com/catherinealeal/MelbourneHomesLinearRegression/blob/main/MelbourneHomesLinReg.ipynb) 
